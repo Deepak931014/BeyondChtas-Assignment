@@ -2,10 +2,6 @@
 
 This project is a replica of the Telegram user interface built using React, React Router, and various custom components and hooks. The application is designed to be responsive and provides a chat interface similar to Telegram.
 
-## Live Demo
-
-Check out the live demo [here](https://nvk-beyondchats.netlify.app/).
-
 ## Table of Contents
 
 - [Features](#features)
@@ -35,7 +31,7 @@ Check out the live demo [here](https://nvk-beyondchats.netlify.app/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-ui-replica.git
+   git clone https://github.com/Deepak931014/BeyondChtas-Assignment.git
    cd telegram-ui-replica
    ```
 
